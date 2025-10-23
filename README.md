@@ -2,6 +2,12 @@
 
 ISS position prediction and satellite tracking with machine learning.
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![SGP4](https://img.shields.io/badge/SGP4-Orbital_Propagation-blue)](https://pypi.org/project/sgp4/)
+[![NumPy](https://img.shields.io/badge/NumPy-Scientific-blue)](https://numpy.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)](https://scikit-learn.org/)
+
 ## Features
 
 - ISS position prediction (GPU-accelerated)
